@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sarodehs/deploy.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/Sarodehs/deploy.github.io/static/js/main.a1172e44.js",
+    "static/js/787.a71561b8.chunk.js": "/Sarodehs/deploy.github.io/static/js/787.a71561b8.chunk.js",
+    "index.html": "/Sarodehs/deploy.github.io/index.html",
+    "main.e6c13ad2.css.map": "/Sarodehs/deploy.github.io/static/css/main.e6c13ad2.css.map",
+    "main.a1172e44.js.map": "/Sarodehs/deploy.github.io/static/js/main.a1172e44.js.map",
+    "787.a71561b8.chunk.js.map": "/Sarodehs/deploy.github.io/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1172e44.js"
+  ]
+}
